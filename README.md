@@ -2,3 +2,5 @@
 
 Repositorio de Evidencias Academicas
 **ESTUDIANTE**: Nicole Julay Ramirez Silva
+**CURSO**: Programación Basica
+**DOCENTE:** Patricia Ardila
