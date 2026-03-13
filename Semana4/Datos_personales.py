@@ -1,4 +1,4 @@
-#ALGORIRMO 
+#ALGORITMO 
 #1. Pedir el nombre al usuario
 #2. Pedir la edad del usuario
 #3. Pedir la ciudad del usuario
