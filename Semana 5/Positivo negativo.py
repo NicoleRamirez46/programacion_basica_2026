@@ -8,6 +8,7 @@
 #6. Mostrar que el numero es negativo
 #7. Si el numero es = a 0
 #8. Mostrar que el numero es neutro
+
 #PSEUDOCODIGO
 #INICIO
     #ESCRIBIR "Ingrese el numero"
@@ -20,6 +21,7 @@
     #ESCRIBIR "Numero neutro"
     #FinSi
 #FIN 
+
 numero=int(input("Ingrese numero: "))
 if numero > 0:
   print ("El numero es positivo")
