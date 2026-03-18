@@ -33,5 +33,5 @@ if valor > 100000:
     print ("El valor de la compra es: ", Total)
 else: 
     Total = valor
-    print ("No obtuviste el descuento, sigue intentando: ")
+    print ("No obtuviste el descuento, sigue intentando :( ")
     print ("El valor de la compra es: ", Total)
