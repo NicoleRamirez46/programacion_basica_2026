@@ -4,7 +4,8 @@
 #3. Comparar si la edad es >=18
 #4. Mostrar Puede ingresar a la discoteca
 #5. Si no
-#6. Mostrar "No puede ingresar a la discoteca"
+#6. Mostrar "No puede ingresar a la discoteca"_
+
 #PSEUDOCODIGO
 #INICIO
   #ESCRIBIR "Ingrese su edad: "
@@ -15,6 +16,7 @@
   #Escribir "No puede ingresar a la discoteca"
   #FinSi
 #FIN
+
 edad=int(input("Ingrese su edad "))
 if edad >= 18:
  print("Puedes entrar al a distoteca")
