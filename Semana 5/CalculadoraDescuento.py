@@ -20,7 +20,7 @@
     #ESCRIBIR "Felicitaciones obtuviste un descuento :D
     #Sino 
     #Total= valor
-    #ESCRIBIR "No obtuviste descuento :()"
+    #ESCRIBIR "No obtuviste descuento :("
     #FinSi
     #ESCRIBIR "El valor de la compra es:"
 
