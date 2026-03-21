@@ -15,7 +15,7 @@
 nombre=input("Ingrese su nombre: ")
 consumo=int(input("Ingrese el consumo mensual de agua: "))
 print("El consumo mensual de agua es: ",consumo)
-if consumo >= 1 and consumo <=15:
+if consumo >= 1 and consumo<=15:
     print("¡Excelente! Eres un usuario responsable del agua.")
 elif consumo>=16 and consumo<=30:
     print("Tu consumo esta dentro del promedio del hogar")
